@@ -1,0 +1,13 @@
+D:\PROG1 P3\MACusercontrol\bin\Debug\MACusercontrol.exe.config
+D:\PROG1 P3\MACusercontrol\bin\Debug\MACusercontrol.exe
+D:\PROG1 P3\MACusercontrol\bin\Debug\MACusercontrol.pdb
+D:\PROG1 P3\MACusercontrol\obj\Debug\MACusercontrol.csproj.AssemblyReference.cache
+D:\PROG1 P3\MACusercontrol\obj\Debug\MACusercontrol.Usercontrol.resources
+D:\PROG1 P3\MACusercontrol\obj\Debug\MACusercontrol.Home.resources
+D:\PROG1 P3\MACusercontrol\obj\Debug\MACusercontrol.Properties.Resources.resources
+D:\PROG1 P3\MACusercontrol\obj\Debug\MACusercontrol.Resetpassword.resources
+D:\PROG1 P3\MACusercontrol\obj\Debug\MACusercontrol.SplashScreen.resources
+D:\PROG1 P3\MACusercontrol\obj\Debug\MACusercontrol.csproj.GenerateResource.cache
+D:\PROG1 P3\MACusercontrol\obj\Debug\MACusercontrol.csproj.CoreCompileInputs.cache
+D:\PROG1 P3\MACusercontrol\obj\Debug\MACusercontrol.exe
+D:\PROG1 P3\MACusercontrol\obj\Debug\MACusercontrol.pdb
